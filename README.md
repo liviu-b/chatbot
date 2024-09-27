@@ -1,7 +1,7 @@
 Chatbot Project
 
 This project is a rule-based chatbot with sentiment analysis, designed to interact with users through a simple graphical user interface (GUI). The chatbot responds to a wide range of topics, such as greetings, programming questions, weather, and more, while tailoring its responses based on the sentiment of the user’s input.
-
+ 
 Features
 
 	•	Rule-Based Responses: The chatbot uses predefined rules and patterns to match user input with appropriate responses.
